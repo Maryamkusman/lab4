@@ -6,7 +6,7 @@
  
 [mine](https://github.com/Maryamkusman/markdown-parse) 
 
-[reviewed in Wk7](https://github.com/zfxd/markdown-parse)
+[reviewed in Wk7](https://github.com/AnniePhan02/CSE15L-Panther.git)
 
 ## Snippet 1:
 ```
