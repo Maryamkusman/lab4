@@ -17,8 +17,7 @@
 
 [`code]`](ucsd.edu)
 ```
-
-<kbd>![Image](Screen%20Shot%202022-02-26%20at%205.10.42%20PM.png)<kbd>
+![Image](Screen%20Shot%202022-02-26%20at%205.10.42%20PM.png)
 
 backticks are wrong for link 1
 expect: **[`google.com, google.com, ucsd.edu]**
@@ -71,7 +70,7 @@ Yes. the backticks need to come together in the outermost bracket.What i did was
 [some escaped \[ brackets \]](example.com)
 ```
 
-<kbd>![Image](Screen%20Shot%202022-02-26%20at%205.12.38%20PM.png)<kbd>
+![Image](Screen%20Shot%202022-02-26%20at%205.12.38%20PM.png)
 
 expect: **[a.com, a.com(()), example.com]**
 
