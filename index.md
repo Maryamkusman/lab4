@@ -3,7 +3,7 @@
 
  The link of MarkdownParse Repos
  
-[my repository](https://github.com/Maryamkusman/markdown-parse) 
+[my repository](https://github.com/Maryamkusman/markdown-parse.git) 
 
 [the other group](https://github.com/AnniePhan02/CSE15L-Panther.git)
 
